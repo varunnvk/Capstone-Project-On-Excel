@@ -10,11 +10,11 @@ This project is about managing and analyzing data for a retail or sales business
 
 ### Result: 
 
-• Analyzed sales performance of products and stores.
-• Identified best-selling products and slow-moving inventory.
-• To Understand regional sales trends.
-• Managed discount strategies effectively.
-• Improved stock management to avoid shortages or overstocking.
+- Analyzed sales performance of products and stores.
+- Identified best-selling products and slow-moving inventory. 
+- To Understand regional sales trends. 
+- Managed discount strategies effectively. 
+- Improved stock management to avoid shortages or overstocking. 
 
 ### Skills: 
 - Microsoft Excel
